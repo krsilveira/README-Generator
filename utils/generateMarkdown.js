@@ -85,7 +85,7 @@ ${licenseSection}
 `;
 }
 
-// exports generateMarkdown function to be used by init function in index.js
+// exports generateMarkdown function to be used by init function in main.js
 
 
 module.exports = {
