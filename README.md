@@ -4,7 +4,13 @@
 
 ## Description
     
-The project is designed to automatically generate a README file
+The project is designed to automatically generate a README file using inquirer to gather the Users input. This project demonstartes my current knowledge of Javascript, here are the higlighted proficicies:
+* NODEjs
+* installing node packages/libary/enviorment
+* inquirer and fs
+* arrow functions
+* modularization
+* function calls
     
 ## Table of Contents
 
