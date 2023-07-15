@@ -27,7 +27,7 @@ User will have to install npm libary for inquirer version 8.2.4 and initiate env
 
 ## Usage
 
-In order to use the README generator, download the source code and install inquirer using npm inquirer 8.2.4. In the terminal, navigate to main.js file to run program. You will be promopted the following questions pertaining to the content of README file you will create. After answering the questions, the README file will populate in the directory for you to preview.
+In order to use the README generator, download the source code and install inquirer using <npm i inquirer@8.2.4>. In the terminal, navigate to main.js file to run program. You will be promopted the following questions pertaining to the content of README file you will create. After answering the questions, the README file will populate in the directory for you to preview.
 
 
 ## Video Demonstration
